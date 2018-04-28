@@ -1,0 +1,46 @@
+﻿<Window x:Class="ExcelComparator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="15"
+        TextOptions.TextFormattingMode="Display"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Width="Auto" Height="Auto" SizeToContent="WidthAndHeight"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="Excel Comparator">
+    <StackPanel Orientation="Vertical" Margin="5">
+        <materialDesign:Card Padding="10" Margin="5">
+            <StackPanel  Margin="10" Orientation="Vertical" HorizontalAlignment="Center">
+                <Label>Path File 1</Label>
+                <TextBox Width="auto" Name="file1"></TextBox>
+                <Label>Sheet Name (default first)</Label>
+                <TextBox Name="sheet"></TextBox>
+                <Button Margin="5" Click="Button_Click">Browse</Button>
+            </StackPanel>
+        </materialDesign:Card>
+        <materialDesign:Card Padding="10" Margin="5">
+            <StackPanel Margin="10" Width="auto" Orientation="Vertical" HorizontalAlignment="Center">
+                <Label>Path File 2</Label>
+                <TextBox Name="file2"></TextBox>
+                <Label>Sheet Name (default first)</Label>
+                <TextBox Name="sheet2"></TextBox>
+                <Button Margin="5" Click="Button_Click_1">Browse</Button>
+            </StackPanel>
+        </materialDesign:Card>
+        <materialDesign:Card Padding="10" Margin="5">
+            <StackPanel Margin="10" Width="auto" Orientation="Vertical" HorizontalAlignment="Center">
+                <Label>Column To Compare (separe with ';') (default all)</Label>
+                <TextBox Name="columns"></TextBox>
+            </StackPanel>
+        </materialDesign:Card>
+        <Button Margin="10" Width="auto" Click="Button_Click_2">Validate</Button>
+    </StackPanel>
+</Window>

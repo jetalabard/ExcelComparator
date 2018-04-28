@@ -1,0 +1,13 @@
+﻿<Window x:Class="Tools.LoadingWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        ResizeMode="NoResize"
+        xmlns:local="clr-namespace:Tools"
+        WindowStartupLocation="CenterScreen"
+        Title="Chargement" Height="90" Width="160">
+    <StackPanel Orientation="Vertical" Margin="5">
+        <TextBlock  HorizontalAlignment="Center" Margin="7" FontSize="10" Name="txtLoading" Text="Veuillez patienter..."/>
+        <ProgressBar x:Name="progress" Height="7" IsIndeterminate="True" />
+    </StackPanel>
+</Window>
+

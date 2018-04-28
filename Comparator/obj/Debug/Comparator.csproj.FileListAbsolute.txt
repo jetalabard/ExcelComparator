@@ -1,0 +1,17 @@
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\Comparator.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\Comparator.pdb
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\Tools.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\BespokeFusion.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\office.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\MahApps.Metro.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\stdole.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\Tools.pdb
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\office.xml
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\MahApps.Metro.pdb
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\bin\Debug\MahApps.Metro.xml
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\obj\Debug\Comparator.csprojResolveAssemblyReference.cache
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\obj\Debug\Comparator.dll
+C:\Users\talabardj\documents\visual studio 2017\Projects\ExcelComparator\Comparator\obj\Debug\Comparator.pdb
